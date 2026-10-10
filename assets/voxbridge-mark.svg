@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">VoxBridge</title>
+  <rect width="512" height="512" rx="96" fill="#0d2f38"/>
+  <circle cx="422" cy="86" r="42" fill="#fdba74"/>
+  <path fill="#f4efe6" d="M256 90c-101 0-183 72-183 161 0 46 23 89 61 118l-18 66c-3 12 10 21 20 15l74-44c15 4 30 6 46 6 101 0 183-72 183-161S357 90 256 90Z"/>
+  <path fill="#14b8a6" d="M142 218c0-52 51-94 114-94s114 42 114 94-51 94-114 94c-14 0-27-2-39-5l-54 32 12-45c-21-19-33-46-33-76Z"/>
+  <rect x="176" y="196" width="56" height="56" rx="13" fill="#fdba74"/>
+  <rect x="280" y="196" width="56" height="56" rx="13" fill="#0d2f38"/>
+  <path d="M191 224h26M204 211v26" stroke="#f4efe6" stroke-width="10" stroke-linecap="round"/>
+  <path d="M295 213h26M295 235h26" stroke="#f4efe6" stroke-width="10" stroke-linecap="round"/>
+</svg>

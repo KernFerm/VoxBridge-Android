@@ -1,8 +1,10 @@
-# VoxBridge Privacy Policy
+# VoxBridge website
 
-This repository publishes the privacy policy for **VoxBridge Translate & TTS**.
+Official website for **VoxBridge Translate & TTS**, published with GitHub Pages.
 
-- Public policy: https://kernferm.github.io/VoxBridge-Android/
-- Support: supportvoxbridgetranslatetts@gmail.com
+- Website: https://kernferm.github.io/VoxBridge-Android/
+- Privacy policy: https://kernferm.github.io/VoxBridge-Android/privacy/
+- Support: https://kernferm.github.io/VoxBridge-Android/support/
+- Email: supportvoxbridgetranslatetts@gmail.com
 
-The policy is maintained in `index.html` and is intended to satisfy the public privacy-policy requirement for the Google Play listing.
+The site is static HTML, CSS, and JavaScript with no analytics, trackers, advertising, or build step.
